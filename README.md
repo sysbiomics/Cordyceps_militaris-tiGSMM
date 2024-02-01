@@ -12,11 +12,11 @@ engineering; **Type of Model:** Reconstruction and refinement; **Taxonomy:** _Co
 
 - Reference: (under review)
 
-- - Pubmed ID: 
+- Pubmed ID: 
 
 - PMC ID: 
 
-- Last update: 2022-06-09
+- Last update: 2024-02-01
 
 - The model contains:
 
